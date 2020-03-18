@@ -1,2 +1,7 @@
 
 venv/*
+/app/__pycache__/__init__.cpython-36.pyc
+/app/routes/__pycache__/routes.cpython-36.pyc
+/config/.env
+/config/__pycache__/__init__.cpython-36.pyc
+/config/__pycache__/config.cpython-36.pyc
