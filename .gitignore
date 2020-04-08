@@ -5,3 +5,10 @@ venv/*
 /config/.env
 /config/__pycache__/__init__.cpython-36.pyc
 /config/__pycache__/config.cpython-36.pyc
+/app/models/__pycache__/base.cpython-36.pyc
+/app/models/__pycache__/t_data_sets.cpython-36.pyc
+/app/models/__pycache__/t_data_sets_utils.cpython-36.pyc
+/app/models/__pycache__/t_example_utils.cpython-36.pyc
+/app/models/__pycache__/t_examples.cpython-36.pyc
+/app/tasks/__pycache__/random_generators.cpython-36.pyc
+/app/tasks/__pycache__/sigmoid.cpython-36.pyc
