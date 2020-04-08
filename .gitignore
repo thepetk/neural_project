@@ -12,3 +12,7 @@ venv/*
 /app/models/__pycache__/t_examples.cpython-36.pyc
 /app/tasks/__pycache__/random_generators.cpython-36.pyc
 /app/tasks/__pycache__/sigmoid.cpython-36.pyc
+/app/models/__pycache__/t_data_set.cpython-36.pyc
+/app/models/__pycache__/t_example.cpython-36.pyc
+/app/models/__pycache__/t_simple_net.cpython-36.pyc
+/app/models/__pycache__/t_simple_net_utils.cpython-36.pyc
