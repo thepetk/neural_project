@@ -16,3 +16,13 @@ venv/*
 /app/models/__pycache__/t_example.cpython-36.pyc
 /app/models/__pycache__/t_simple_net.cpython-36.pyc
 /app/models/__pycache__/t_simple_net_utils.cpython-36.pyc
+/app/models/__pycache__/t_deep_net.cpython-36.pyc
+/app/models/__pycache__/t_deep_net_utils.cpython-36.pyc
+/app/models/__pycache__/t_form.cpython-36.pyc
+/migrations/README
+/migrations/__pycache__/env.cpython-36.pyc
+/migrations/alembic.ini
+/migrations/env.py
+/migrations/script.py.mako
+/migrations/versions/__pycache__/d767e76926c0_.cpython-36.pyc
+/migrations/versions/d767e76926c0_.py
