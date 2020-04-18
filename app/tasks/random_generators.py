@@ -5,8 +5,7 @@ def integer_generator(a, b):
     """
     Generates a random integer between a and b.
     """
-
-    return randint(int(a),int(b))
+    return randint(abs(int(a)),abs(int(b)))
 
 def float_generator(a,b):
     """

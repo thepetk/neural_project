@@ -3,6 +3,7 @@ import os
 
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
 
 def create_app(**kwargs):
     app = Flask(__name__)
@@ -11,6 +12,7 @@ def create_app(**kwargs):
 
 app = create_app()
 db = SQLAlchemy(app)
+migrate = Migrate(app, db)
 
 error_logger = logging.getLogger('log.error')
 app.logger.handlers.extend(error_logger.handlers)
