@@ -13,6 +13,7 @@ Project under construction.
 Not at a functional state yet. Please wait for the first stable version.
 
 ## Contribution
-Feel free to use the code for your own projects. After first stable release I'd be glad to get a feedback with possible errors or mistakes.
+Feel free to use the code for your own projects. After first stable release I'd be glad to get a feedback with possible errors or mistakes. Pull requests are always welcome!
 
+May the force be with you,
 ### Theofanis A. Petkos, Software Engineer
